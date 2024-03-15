@@ -1,6 +1,6 @@
 # Project set 
 
-[click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
+[Click Here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
 
 # solution code 
 ## project 1
