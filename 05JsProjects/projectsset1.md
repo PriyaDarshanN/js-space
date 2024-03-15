@@ -26,4 +26,26 @@ y.forEach((b) => {
 });
 
 
+
+```
+
+# project 2 
+
+```javascript
+const result = document.getElementById('results');
+
+function bmi(h, w) {
+  return (w / h ** 2) * 100;
+}
+document.getElementById('calc').setAttribute('type',"button")
+document.getElementById('calc').onclick = () => {
+  if (true) {
+    const height = document.querySelector('#height').value;
+    const weight = document.querySelector('#weight').value;
+    const res = bmi(height, weight);
+    result.innerHTML = `<h1>${res}</h>`;
+  }
+};
+
+
 ```
